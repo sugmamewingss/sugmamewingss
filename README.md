@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hi EVery-nyan😺👋</h1>
+<h1 align="center">Hi Hi Every-nyan😺👋</h1>
 ---
 # 💫 About Me:
 🐈‍⬛ I'm Alfi Perdiansyah Putra, you can call me Al!<br>🎓 Faculty of Computer Science at Brawijaya University<br>👨‍💻 Currently studying PHP, Laravel, Blade, and Kotlin<br>📱 Interest in android developtment<br>😺 Nice to meet ya! 
